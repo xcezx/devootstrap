@@ -1,0 +1,12 @@
+{
+    "name": "xcezx/devootstrap",
+    "description": "bootstrap for dev",
+    "license": "MIT",
+    "type": "project",
+    "authors": [
+        {
+            "name": "xcezx",
+            "email": "main.xcezx@gmail.com"
+        }
+    ]
+}
