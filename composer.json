@@ -10,5 +10,6 @@
         }
     ],
     "require": {
-    }
+    },
+    "minimam-stability": "dev"
 }
